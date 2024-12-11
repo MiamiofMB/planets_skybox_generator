@@ -1,0 +1,13 @@
+{
+
+  "earth": {"venus.png":[15,10],"mars.png":[8,8],"moon.png":[100,100]},
+  "moon": {"sun.png":[30,20],"earth.png":[120,100]},
+  "mercury":{"sun.png": [300,200]},
+  "mars": {"earth.png":[10,5],"saturn.png":[150,60],"jupiter.png":[300,200]},
+  "jupiter": {"uranus.png": [150,150],"saturn.png": [300,100]},
+  "venus": {"mercury.png": [40,30],"earth.png": [70,65],"moon.png": [10,10],"mars.png": [55,50]},
+  "uranus": {"neptune.png": [60,55],"saturn.png":[175,90]},
+  "neptune": {"uranus.png":[60,55],"saturn.png": [50,30]}
+
+
+}
